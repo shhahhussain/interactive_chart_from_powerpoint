@@ -1,5 +1,4 @@
 # interactive_chart_from_powerpoint
-# interactive_chart_from_powerpoint
 
 Bar Chart Visualization Project
 This project is a web-based bar chart visualization tool that allows you to create and update a bar chart based on data from an Excel file. The chart is created using the Chart.js library and data is read from the Excel file using the XLSX library. You can filter the data by specifying a value for "MthinOffice" and draw the corresponding bar chart.
@@ -39,8 +38,6 @@ Using the Application
 Enter a numeric value in the "Enter MthinOffice" input field and click the "Draw Chart" button. This will filter the data based on the specified value and create a bar chart showing the maximum values for each "President."
 
 You can change the "MthinOffice" value and click "Draw Chart" again to update the chart with different data.
-
-If you want to use your own data, upload an Excel file using the "Choose File" button. The chart will update based on the data in the uploaded file.
 
 License
 This project is provided under the MIT License. You are free to use and modify the code as needed. Please refer to the LICENSE file for more details.
